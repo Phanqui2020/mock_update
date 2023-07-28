@@ -7,7 +7,7 @@
             "releaseNote": "<ul> <li> <p>Bổ sung t&iacute;nh năng qu&ecirc;n mật khẩu</p> </li> <li> <p>Release t&iacute;nh năng Quản l&yacute; hạ tầng PON</p> </li> <li> <p>Fix một số lỗi của người d&ugrave;ng (thay đổi token upload ảnh)</p> </li> </ul>",
             "id": 202,
             "version": "3.31",
-            "link": "http://mediamap.fpt.vn/mobimap/Android/MobiMap_v3.30.apk"
+            "link": "https://github.com/Phanqui2020/mock_update/blob/main/mobimap-release.apk"
         }
     }
 }
